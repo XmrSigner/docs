@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 #
 site_name: "XmrSigner Documentation"
-site_url: "https://xmrsigner.github.io/docs/"
+  # site_url: "https://xmrsigner.github.io/docs/"
 theme:
   name: material
   features:
